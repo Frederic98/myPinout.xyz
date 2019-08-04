@@ -2,7 +2,7 @@
 ---
 name: Octomaker
 class: board
-type: 3D-printer
+type: power,io,display,motor,multi
 formfactor: Custom
 manufacturer: Frederic
 description: An add-on board for the RPi to talk to the Ultimaker 2 mainboard
