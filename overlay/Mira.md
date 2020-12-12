@@ -93,9 +93,6 @@ pin:
     active: high
 
 -->
-#Mira board
+#Mira
 
-The Mira board is an addon for a Raspberry Pi 4 to connect components of Mira to the RPi.  
-It has connections for 3 servo motors for yaw, pitch and roll movements, 2 connectors for ST7735 TFTs for the eyes,
-a connector for an APA102 LED strip, and a connector for a 4-pin PWM fan running at 5V.
-Additionally, it has a connection to supply 5V to the whole system to power the Pi and components.
+Mira is a small robot designed by Pixar 3D artist Alonso Martinez. He created the robot to bring a character to life, just like in a move, but making it possible to interact with them. The goal was to create a very simple robot that still had a lot of personality. It consists of a partial sphere with a head that moves over it. Inside the body is a joystick mechanism with three servo motors that make the head move around. In the head are two screens, to animate the eyes, and a camera so that it can perceive the world around it.
