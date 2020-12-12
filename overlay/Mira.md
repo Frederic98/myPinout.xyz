@@ -1,6 +1,6 @@
 <!--
 ---
-name: Mira board
+name: Mira
 class: board
 type: power,io,display,motor,multi
 formfactor: Custom
